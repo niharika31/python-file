@@ -1,0 +1,1 @@
+no_of_employees =int(input("no. of employees"))
